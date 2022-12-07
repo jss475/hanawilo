@@ -179,4 +179,23 @@ newMap.delete('name')
 console.log(newMap)
 
 //PROBLEM #11
+//Asynchronous programming is where you have code running in the background without
+//affecting what is happening in the moment. That code running in the background
+//can then later be used once the task is finished. It's different from synchronous
+//programming which goes step by step.
 
+//PROBLEM #12
+//Call back hell is when you have nested callback functions that rely on the previous
+//function to move on. 
+
+//PROBLEM #13
+//A promise is what you get after an asynchronous function is executed. It guarantees
+// that a value will be returned at some point.
+//Possible states are fulfilled, rejected, pending. 
+
+
+//PROBLEM #14
+//Async await is when you have an asynchronous function and you want the
+//results of a promise to be return first before moving on.
+
+//PROBLEM #15
